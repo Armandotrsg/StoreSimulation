@@ -1,0 +1,11 @@
+A1,Shampoo          ,30,100
+A2,Jabón para cuerpo,15,100
+A3,Pasta de dientes,66,40
+A4,Cepillo de dientes,60,20
+A5,Crema para afeitar,120,10
+A6,Rastrillo         ,300,5
+A7,Acondicionador    ,225.5,30
+A8,Toallas           ,22,74
+A9,Perfume           ,349,7
+A10,Crema para manos,75,147
+A11,Gel             ,47,24
