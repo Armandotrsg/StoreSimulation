@@ -1,4 +1,4 @@
-# C++ Online Store Menu using OOP
+# C++ Online Store Menu
 
 ## Description
 
